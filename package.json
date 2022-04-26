@@ -1,0 +1,25 @@
+{
+  "name": "glitchybot-3.0",
+  "version": "1.0.0",
+  "description": "A simple Discord moderation bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bass-PHOX/GlitchyBot-3.0.git"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "Bass-PHOX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bass-PHOX/GlitchyBot-3.0/issues"
+  },
+  "homepage": "https://github.com/Bass-PHOX/GlitchyBot-3.0#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
